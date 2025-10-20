@@ -1,0 +1,7 @@
+.page__image {
+  position: absolute;
+  right: 0;
+  top: 76px;
+  z-index: 2;
+  pointer-events: none;
+}

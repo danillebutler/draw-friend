@@ -1,0 +1,27 @@
+.footer {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 8px;
+  background-color: #0a0a0a;
+  box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.05);
+  font-size: 14px;
+  color: #555;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer a {
+  color: #5480de;
+  text-decoration: none;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.footer a:hover {
+font-size: 16px;
+  color: #54dea0;
+  text-decoration: none;
+  transform: scale(1.05);
+}

@@ -1,0 +1,36 @@
+.prizeDraw__container {
+  border: 1px solid #00f4bf;
+  border-radius: 8px;
+  padding: 24px;
+  width: 453px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-style: italic;
+  gap: 8px;
+}
+
+.prizeDraw__title {
+  color: #00f4bf;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.prizeDraw__winner {
+  color: #00f4bf;
+  font-size: 28px;
+  font-weight: 700;
+  text-shadow: 0 0 5px #00f4bf, 0 0 10px #1875e8, 0 0 20px #00f4bf;
+  animation: neonBlink 1s ease-in-out infinite alternate;
+}
+
+@keyframes neonBlink {
+  from {
+    text-shadow: 0 0 5px #00f4bf, 0 0 10px #1875e8, 0 0 20px #00f4bf;
+    color: #00f4bf;
+  }
+  to {
+    text-shadow: 0 0 15px #00f4bf, 0 0 30px #1875e8, 0 0 40px #00f4bf;
+    color: #fff;
+  }
+}
