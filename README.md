@@ -1,6 +1,6 @@
 # 🎁 SecretFriend React
 
-A simple and elegant Secret Santa project built with **React**, featuring a responsive layout, a minimalist footer, and a link to the developer.  
+A simple and elegant Secret Friend project built with **React**, featuring a responsive layout, a minimalist footer, and a link to the developer.  
 
 ---
 
