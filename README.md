@@ -1,24 +1,33 @@
-# 🎁 SecretFriend React
+# draw-friend
 
-A simple and elegant Secret Friend project built with **React**, featuring a responsive layout, a minimalist footer, and a link to the developer.  
+Interactive React web application demonstrating component-based architecture, state management with hooks, and responsive UI design. Users can create drawings and interact with the interface seamlessly.
 
----
+## Tecnologias
+- React
+- JavaScript
+- HTML
+- CSS
 
-## ✨ Features
+## Funcionalidades
+- Users can draw and save sketches
+- Interactive UI with React components
+- Responsive design for mobile and desktop
+- State management with React hooks
 
-- Welcome screen
-- Centered footer with a gift icon and a link to the developer's site web
-- Responsive layout with no unnecessary scrolling, even with little content
-- Minimalist and clean design, easy to customize
+## Como rodar o projeto localmente
+```bash
+git clone https://github.com/danillebutler/draw-friend.git
+cd draw-friend
+npm install
+npm start
 
----
 
-## 🛠 Technologies Used
 
-- [React](https://reactjs.org/)
-- HTML5 & CSS3
-- [React Icons](https://react-icons.github.io/react-icons/) (for minimalist icons)
+Status
 
----
+✅ Complete
 
-Developed by Danille Butler.
+Autor
+
+Developed by Danille Butler – Front-End Developer
+LinkedIn
