@@ -20,16 +20,14 @@ git clone https://github.com/danillebutler/draw-friend.git
 cd draw-friend
 npm install
 npm start
+```
 
+## Status
 
-Preview
+✅ Complete 
 
-Status
-
-✅ Complete
-
-Author
+## Author
 
 Developed by Danille Butler – Front-End Developer
-[Connect with me on LinkedIn](https://www.linkedin.com/in/danillebutler)
 
+[Connect with me on LinkedIn](https://www.linkedin.com/in/danillebutler)
