@@ -31,4 +31,5 @@ Status
 Author
 
 Developed by Danille Butler – Front-End Developer
-[LinkedIn](https://www.linkedin.com/in/danillebutler)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/danillebutler/)
+
